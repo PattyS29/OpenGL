@@ -13,7 +13,7 @@ void display(void)
     /* seleccionamos la matriz modelo/vista */
     glMatrixMode(GL_MODELVIEW);
     /* color */
-    glColor3f(1.0, 1.0, 1.0);
+    glColor3f(0.0, 0.0, 1.0);
     glLoadIdentity();
     glTranslatef(0.0, 0.0, 0.0);
     glRotatef(45.0, 0.0, 0.0, 1.0);
