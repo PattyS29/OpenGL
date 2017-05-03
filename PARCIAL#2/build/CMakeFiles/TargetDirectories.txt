@@ -1,0 +1,1 @@
+/home/patty/Documentos/OpenGL/PARCIAL#2/build/CMakeFiles/hello.dir
